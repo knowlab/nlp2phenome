@@ -9,7 +9,7 @@ importlib-metadata==1.7.0
 joblib==0.15.1
 murmurhash==1.0.2
 mysql-connector-python==8.0.20
-numpy==1.19.0
+numpy==1.22.0
 plac==1.2.0
 preshed==3.0.2
 protobuf==3.12.2
